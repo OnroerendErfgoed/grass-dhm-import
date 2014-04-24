@@ -8,7 +8,7 @@
 #% key: dhm_file
 #% type: string
 #% gisprompt: old_file,file
-#% description: Bronbestand
+#% description: Bronbestand(bvb: DHM3P3D5_S73.grd.gz)
 #% required: yes
 #%end
 #%option
@@ -44,7 +44,7 @@
 #%option
 #% key: west
 #% type: integer
-#% Description: Zuidelijke begrenzing van het gebied
+#% Description: Westelijke begrenzing van het gebied
 #% required: yes
 #%end
 #%option
